@@ -1,0 +1,19 @@
+li {
+    color: yellow;
+    margin-top: 10px;
+    background-color: black;
+    font-size: 22px;
+    font-family: 'Times New Roman';
+    width: fit-content;
+  }
+  main {
+    border: 10px solid black;
+  }
+  nav {
+    border: 10px solid black;
+    margin-bottom: 10px;
+  }
+  #Title {
+    display: inline-block;
+    font-weight: bold;
+  }
